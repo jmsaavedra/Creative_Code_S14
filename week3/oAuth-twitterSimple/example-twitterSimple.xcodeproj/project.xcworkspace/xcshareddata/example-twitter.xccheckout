@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>260562F1-D14D-4398-8005-D17087D1F14F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>example-twitter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>12E80BE3-8F05-40D1-93AF-3F0053EABA1E</key>
+		<string>https://github.com/pelayomendez/ofxOAuth.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example-twitter/example-twitter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>12E80BE3-8F05-40D1-93AF-3F0053EABA1E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pelayomendez/ofxOAuth.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>12E80BE3-8F05-40D1-93AF-3F0053EABA1E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>12E80BE3-8F05-40D1-93AF-3F0053EABA1E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxOauth</string>
+		</dict>
+	</array>
+</dict>
+</plist>
