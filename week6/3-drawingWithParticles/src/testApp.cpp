@@ -37,7 +37,7 @@ void testApp::draw(){
 	}
 	
     ofNoFill();
-	//ofFill(); // picasso !!!
+	ofFill(); // picasso !!!
 
 	ofBeginShape();
 	for (int i = 0; i < particles.size(); i++){
