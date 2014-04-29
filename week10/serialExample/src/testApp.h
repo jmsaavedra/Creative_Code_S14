@@ -4,7 +4,6 @@
 
 #define NUM_MSG_BYTES 3 //how many bytes we are expecting to receive
 
-
 class testApp : public ofBaseApp{
 	
 	public:
@@ -30,7 +29,7 @@ class testApp : public ofBaseApp{
         
         //we'll use this to count how many msgs have been received so far
         //(for debugging)
-        long numMsgRecvd;			// when did we last read?
+        int numMsgRecvd;			// when did we last read?
 		
 		ofSerial	mySerial;
 };

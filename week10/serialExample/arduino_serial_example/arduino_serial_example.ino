@@ -38,7 +38,7 @@ void loop()
     if(count2 < 10)  count2 = 255;
   }
   
-  delay(30); // 30fps
+  delay(50); // 30fps
 }
 
 

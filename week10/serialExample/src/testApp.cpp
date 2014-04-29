@@ -15,7 +15,7 @@ void testApp::setup(){
 	// this should be set to whatever com port your serial device is connected to.
 	// (ie, COM4 on a pc, /dev/tty.... on linux, /dev/tty... on a mac)
 	// arduino users check in arduino app....
-	int baud = 115200;
+int baud = 115200;
 	mySerial.setup(0, baud); //open the first device
     
     numMsgRecvd = 0;
