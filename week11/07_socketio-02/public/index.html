@@ -3,7 +3,7 @@
 		<script src="/socket.io/socket.io.js"></script>
 		<script src="jquery-1.9.1.min.js"></script>
 		<script>
-			var socket = io.connect('http://10.10.80.105:8080');
+			var socket = io.connect('http://192.168.1.133:8080');
 			socket.on('news', function(data){
 				console.log(data);
 				socket.emit('my other event', {my:'data'});
